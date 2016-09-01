@@ -1,0 +1,36 @@
+{
+  "name": "angularproject",
+  "version": "1.0.0",
+  "description": "angular set up in middleman using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aabhiram-redp/Angular.git"
+  },
+  "author": "abhiram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aabhiram-redp/Angular/issues"
+  },
+  "homepage": "https://github.com/Aabhiram-redp/Angular#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
